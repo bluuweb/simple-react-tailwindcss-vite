@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-svg {
+    background-image: url(./assets/img/icon-work.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
